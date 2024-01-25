@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.5936985d.css",
+    "main.js": "/portfolio-website/static/js/main.07cd54d7.js",
+    "static/media/bannerImg.png": "/portfolio-website/static/media/bannerImg.5d7a100517a8b0abade3.png",
+    "static/media/projectFour.png": "/portfolio-website/static/media/projectFour.33cdddd1896419447226.png",
+    "static/media/projectSix.png": "/portfolio-website/static/media/projectSix.9316f9935e652869f5c2.png",
+    "static/media/kent-logo.png": "/portfolio-website/static/media/kent-logo.16369f46b94cee46ac90.png",
+    "static/media/projectTwo.png": "/portfolio-website/static/media/projectTwo.45074659b9fbea0ca228.png",
+    "static/media/contactImg.png": "/portfolio-website/static/media/contactImg.c0c32b234ad260bf810c.png",
+    "static/media/node-logo.png": "/portfolio-website/static/media/node-logo.fc3bd1ec69d7a50e685a.png",
+    "static/media/innovaSolutions.jpeg": "/portfolio-website/static/media/innovaSolutions.0bcb31a10901cb91ebf0.jpeg",
+    "static/media/projectThree.png": "/portfolio-website/static/media/projectThree.22576d66b26d121f299d.png",
+    "static/media/java.png": "/portfolio-website/static/media/java.a6d87b2bfad48e7c8696.png",
+    "static/media/projectFive.png": "/portfolio-website/static/media/projectFive.944658b5f0d273fe8e1e.png",
+    "static/media/projectOne.png": "/portfolio-website/static/media/projectOne.af7af54698e10edc390b.png",
+    "static/media/cvr-logo.jpeg": "/portfolio-website/static/media/cvr-logo.e302f50b498e469574e6.jpeg",
+    "static/media/htmllogo.png": "/portfolio-website/static/media/htmllogo.63a75eee5ae78f1b0f35.png",
+    "static/media/react-logo.png": "/portfolio-website/static/media/react-logo.05e48353d6aac031c4e0.png",
+    "static/media/rails.png": "/portfolio-website/static/media/rails.c7b3b3867085502797a4.png",
+    "static/media/jenkins.png": "/portfolio-website/static/media/jenkins.162a578657f09fd6b115.png",
+    "static/media/python-logo.png": "/portfolio-website/static/media/python-logo.212de8d7278260fca353.png",
+    "static/media/svn.png": "/portfolio-website/static/media/svn.dee0fee5ba67924e25b5.png",
+    "static/media/testimonialOne.jpg": "/portfolio-website/static/media/testimonialOne.a70003b7c3a357895d2c.jpg",
+    "static/media/ggk-tech-logo.png": "/portfolio-website/static/media/ggk-tech-logo.e3530768b7d7454fc2d1.png",
+    "static/media/awslogo.png": "/portfolio-website/static/media/awslogo.07044dfee104d36621e0.png",
+    "static/media/sql-server-logo.png": "/portfolio-website/static/media/sql-server-logo.c7f33b288716bff07ee0.png",
+    "static/media/css.png": "/portfolio-website/static/media/css.ecdd72c96bae69e4938b.png",
+    "static/media/mysqllogo.png": "/portfolio-website/static/media/mysqllogo.4676ad983d6bd3e9fac9.png",
+    "static/media/jslogo.png": "/portfolio-website/static/media/jslogo.7962c0f6ac3eec967783.png",
+    "static/media/logo.png": "/portfolio-website/static/media/logo.3ac3cf21bb8ba591ff80.png",
+    "index.html": "/portfolio-website/index.html",
+    "static/media/azure.svg": "/portfolio-website/static/media/azure.16afec27c7001da4be828a235f2ed2ce.svg",
+    "main.5936985d.css.map": "/portfolio-website/static/css/main.5936985d.css.map",
+    "main.07cd54d7.js.map": "/portfolio-website/static/js/main.07cd54d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5936985d.css",
+    "static/js/main.07cd54d7.js"
+  ]
+}
