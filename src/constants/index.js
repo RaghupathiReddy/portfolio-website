@@ -4,29 +4,24 @@ export const navLinksdata = [
     title: "Home",
     link: "home",
   },
-  // {
-  //   _id: 1002,
-  //   title: "Features",
-  //   link: "features",
-  // },
   {
-    _id: 1003,
+    _id: 1002,
     title: "Projects",
     link: "projects",
+  }, 
+  {
+    _id: 1003,
+    title: "Experience",
+    link: "experience",
   },
   {
     _id: 1004,
-    title: "Resume",
-    link: "resume",
+    title: "Skills",
+    link: "skills",
   },
   {
     _id: 1005,
     title: "Testimonial",
     link: "testimonial",
-  },
-  {
-    _id: 1006,
-    title: "Contact",
-    link: "contact",
   },
 ];

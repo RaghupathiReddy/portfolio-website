@@ -9,10 +9,7 @@ const Media = () => {
             Find me on
           </h2>
           <div className="flex gap-4">
-            {/* <span className="bannerIcon">
-            <a href="https://github.com/mihirc0111" target="_blank" rel="noopener noreferrer">
-              <SiGithub /></a>
-            </span> */}
+
             <span className="bannerIcon">
             <a href="mailto:allapuram.raghupathi@gmail.com">
               <SiGmail /></a>

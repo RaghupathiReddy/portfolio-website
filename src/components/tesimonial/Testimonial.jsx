@@ -47,19 +47,16 @@ const Testimonial = () => {
       id="testimonial"
       className="w-full py-20 border-b-[1px] border-b-black"
     >
-      <div className="flex justify-center items-center text-center">
+      <div className="flex justify-center items-center text-center mt-20">
         <Title des="Achievements" />
       </div>
       <div class="row">
-        <div class="odd text-center mt-20">
+        <div class="font-bold mt-20 odd text-3xl text-center">
           <ul class="achievements-list">
             <li>Star of the Month, Innova Solutions(2019)</li>
             <li>Spot Bonus, GGK Tech(2018)</li>
           </ul>
         </div>
-      </div>
-      <div className="flex justify-center items-center text-center mt-20">
-        <Title des="Testimonials" />
       </div>
       <div className="max-w-6xl mx-auto">
         {/* ================ Slider One ================== */}

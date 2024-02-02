@@ -22,7 +22,8 @@ function App() {
         <Resume />
         <Skill/>
         <Testimonial />
-        <Contact />
+        {/* <Contact /> */}
+        <FooterBottom />
       </div>
     </div>
   );
