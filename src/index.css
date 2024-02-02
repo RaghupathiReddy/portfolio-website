@@ -3,28 +3,33 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components{
-    .bannerIcon{
+@layer components {
+    .bannerIcon {
         @apply w-16 h-16 bg-black bg-opacity-25 text-gray-200 text-xl inline-flex items-center justify-center rounded-md shadow-shadowOne hover:bg-opacity-40 hover:-translate-y-1 transition-all hover:text-designColor cursor-pointer duration-300;
     }
+
     .resumeLi {
-    @apply w-full h-20 bg-black bg-opacity-25 text-xl text-gray-300 flex justify-center cursor-pointer hover:bg-opacity-40 duration-300 items-center border-[1px] rounded-none;
-         }
-.bgOpacity {
-@apply bg-black bg-opacity-40;
-                  }
-    .contactInput{
+        @apply w-full h-20 bg-black bg-opacity-25 text-xl text-gray-300 flex justify-center cursor-pointer hover:bg-opacity-40 duration-300 items-center border-[1px] rounded-none;
+    }
+
+    .bgOpacity {
+        @apply bg-black bg-opacity-40;
+    }
+
+    .contactInput {
         @apply w-full h-12 rounded-lg border-b-[1px] border-b-gray-600 bg-[#191b1e] text-lightText px-4 active:outline-none focus-visible:outline-designColor outline-none focus-visible:border-b-transparent duration-300
     }
-.contactTextArea{
-    @apply w-full rounded-lg border-b-[1px] border-b-gray-600 bg-[#191b1e] text-lightText px-4 py-2 active:outline-none focus-visible:outline-designColor outline-none focus-visible:border-b-transparent duration-300 resize-none
-}
+
+    .contactTextArea {
+        @apply w-full rounded-lg border-b-[1px] border-b-gray-600 bg-[#191b1e] text-lightText px-4 py-2 active:outline-none focus-visible:outline-designColor outline-none focus-visible:border-b-transparent duration-300 resize-none
+    }
 }
 
 .active {
     color: white;
 }
-.scrollbar-hide::-webkit-scrollbar{
+
+.scrollbar-hide::-webkit-scrollbar {
     display: none;
 }
 
@@ -34,11 +39,11 @@
     display: flex !important;
 }
 
-.using-icon { 
+.using-icon {
     height: 100% !important;
     width: 100% !important;
     border: 2px solid white !important;
-    background: rgb(33,36,40) !important;
+    background: rgb(33, 36, 40) !important;
 }
 
 .timeline-image {
@@ -54,7 +59,44 @@
 }
 
 .skill-section {
-    background-color: white;
     border-radius: 5px;
     padding: 10px;
+}
+
+.text-designColor {
+    color: rgb(0, 127, 255);
+}
+
+.skill-list-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skill-list-item img {
+    width: 80px;
+    height: 80px;
+}
+
+.contactInput:focus-visible,
+.contactTextArea:focus-visible {
+    border-bottom-color: transparent;
+    outline-color: rgb(0, 127, 255);
+}
+
+.card-content-wrapper .hJSStN {
+    background: rgb(33 36 40);
+}
+
+.card-content-wrapper .bGAMeM,
+.card-content-wrapper .YCAcW {
+    color: white;
+    background: #212428;
+}
+
+.card-content-wrapper .cKwrZa {
+    background: #212428;
+    --tw-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
+    --tw-shadow-colored: 10px 10px 19px var(--tw-shadow-color), -10px -10px 19px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
