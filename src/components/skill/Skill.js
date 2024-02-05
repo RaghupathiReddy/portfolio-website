@@ -14,7 +14,7 @@ const Resume = () => {
       <div className="skill-section row">
         {skills && skills.map((skill) => {
             return (
-                <div className="skill-list-item col-2 mt-3">
+                <div className="skill-list-item col-3 col-sm-4 col-md-3 col-lg-2 mt-3">
                     <img src={skill.url} width="100px"/>
                     <p>{skill.name}</p>
                 </div>
